@@ -1,0 +1,435 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: century Gothic;
+}
+.cont
+{
+    max-width: 1400px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 3px 10px;
+    align-content: center;
+    text-align: center;
+}
+
+#home
+{   margin: 30px;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../image/WhatsApp%20Image%202019-07-12%20at%2013.57.31.jpeg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+#About
+{   margin: 30px;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../image/tebogo.JPG);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+#Resume
+{   margin: 30px;
+    background-color: #f2f2f2;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #555;
+}
+#contact
+{   margin: 30px;
+    background-color: #f2f2f2;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.menu
+{
+    color: burlywood;
+    float: right;
+    padding: 40px 6px 40px;
+    font-size: 30px;
+}
+
+.menu a
+{
+    color: white;
+    padding: 0px 0px;
+    text-decoration: none;
+    font-family:"Roboto", "Arial narrow","Myriad pro";
+}
+
+.menu a:hover
+{
+    color: black;
+    background-color: #fff;
+}
+
+
+
+.menu-about
+{
+    color: burlywood;
+    float: right;
+    padding: 40px 6px 40px;
+    font-size: 30px;
+}
+
+.menu-about a
+{
+    color: white;
+    padding: 0px 0px;
+    text-decoration: none;
+    font-family:"Roboto", "Arial narrow","Myriad pro";
+}
+
+.menu-about a:hover
+{
+    color: black;
+    background-color: #fff;
+}
+
+
+
+.title
+{
+    position: absolute;
+    top: 60%;
+    left: 25%;
+}
+.title h1
+{
+    color: #fff;
+    font-size: 50px;
+}
+.button
+{
+    position: absolute;
+    top: 75%;
+    left: 40%;
+}
+
+.btn
+{
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+
+.btn:hover
+{
+    color: black;
+    background-color: #fff;
+}
+
+body
+{
+    font-family: monospace;
+}
+
+.vav-bar
+{
+    max-width: 1600px;
+    margin: auto;
+}
+
+.title_
+{
+    position: absolute;
+    top: 60%;
+    left: 25%;
+}
+.title_ h1
+{
+    color: #fff;
+    font-size: 50px;
+}
+
+#About
+{
+    font-style: normal;
+}
+.content
+{
+    color: white;
+}
+
+.abt_header
+{
+    font-size: 50px;
+    color: white;
+    margin-top: 14%
+}
+.abt_header h1
+{
+    font-size: 100px;
+    margin-bottom: 6px;
+}
+
+.abt_header p
+{
+    font-size: 45px;
+}
+.social img
+{
+    display: inline-block;
+    background-color: #fff;
+    margin-top: 1%
+}
+.resu
+{
+    font-size: 75px;
+    color: cadetblue;
+    margin-top: 10px;
+    
+
+}
+.first-pic
+{
+    float: left;
+    background-color: cadetblue;
+}
+.edu
+{
+    position: relative;
+    top: -120px;
+    left: 220px;
+    color: black;
+    float: left;
+    font-size: 50px;
+}
+.ski
+{
+    position: relative;
+    top: -120px;
+    left: 660px;
+    color: black;
+    float: left;
+    font-size: 50px;
+}
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+.head
+{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+.contact_
+{
+    font-size: 60px;
+    margin-top: 40px;
+}
+.contact_ h4
+{
+    text-align: center;
+    font-size: 50px;
+    color: steelblue;
+}
+.formm
+{
+    margin: 20px auto;
+    width: 320px;
+    color: steelblue;
+}
+input
+{
+    padding: 10px;
+    font-size: inherit;
+}
+input[type="text"]
+{
+    display: block;
+    margin-bottom: 25px;
+    widows: 100%;
+    border: 2px solid steelblue;
+}
+input[type="Email"]
+{
+    display: block;
+    margin-bottom: 25px;
+    widows: 100%;
+    border: 2px solid steelblue;
+}
+input[type="Submit"]
+{
+    width: 344px;
+    height: 45px;
+    border: none;
+    background: steelblue;
+    color: white;
+}
+
+
+
+.form-name
+{
+    font-size: 30px;
+    font-family: "century Gothic";
+    color: brown;
+}
+
+
+
+
+/*
+.form
+{
+    font-size: 50px;
+    margin-top: 90px;
+}
+form
+{
+    width: 3px;
+}
+
+input
+{
+    font-size: 50px;
+    margin-top: 30px;
+}
+
+
+textarea
+{
+    resize: vertical;
+    max-height: px;
+}
+*/
+
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+/*
+
+
+h1
+{
+    font-weight: lighter;
+    font-size: 80px;
+    color: #fff;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 0;
+}
+
+p
+{
+    color: #fff;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-top: 0;
+}
+*/
+
+.media
+{
+    margin-top: 10px;
+    
+}
+
+li
+{
+    list-style: none;
+    margin: 10px 30px;
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px 20px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
+li:hover
+{
+    color: #292929;
+    border: 1px solid #292929;
+    transition: .5s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
